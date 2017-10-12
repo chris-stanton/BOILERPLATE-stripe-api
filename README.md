@@ -38,7 +38,7 @@
     - ``` npm start ``` Starts server
     - ``` npm test ``` Starts server using Nodemon
 4. Server is listening on port: 5000
-5. Credit Card Number: ``4242 4242 4242 4242`` provided by stripe for testing purposes ONLY.  THIS IS NOT A VALID CREDIT CARD
+5. Credit Card Number: ``4242 4242 4242 4242`` provided by stripe for testing purposes only.  THIS IS NOT A VALID CREDIT CARD
 
 
 ## License
