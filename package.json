@@ -10,9 +10,9 @@
   "author": "Chris Stanton",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "express-handlebars": "^3.0.0",
-    "stripe": "^5.1.1"
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "express-handlebars": "3.0.0",
+    "stripe": "5.1.1"
   }
 }
