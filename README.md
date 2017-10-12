@@ -2,7 +2,7 @@
 # Stripe API Boilerplate
 
 ## Description:
-###### Node.js/ Express app that uses the Stripe API to process credit card transactions.  Boilerplate is desktop and mobile friendly.
+###### Node.js/ Express app that uses the Stripe API to process credit card transactions. Boilerplate is desktop and mobile friendly.
 
 - *Desktop Views*
 
