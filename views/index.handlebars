@@ -8,20 +8,15 @@
       <form action="/charge" method="POST">
         <!-- script handle descriptions and sets price for server -->
         <script
-          src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+          src="https://checkout.stripe.com/checkout.js"
+          class="stripe-button"
           data-key="{{stripePublishableKey}}"
           data-amount="7500"
+          data-image="./images/symbol.png"
           data-name="Custom Ice Rod"
           data-description="Custom Rods created by Chris Stanton"
-          data-image="./images/symbol.png"
           data-locale="auto">
         </script>
-        <!-- <script>
-          // hide default purchase button
-          document.getElementsByClassName('stripe-button-el')[0].style.display = 'none';
-        </script> -->
-        <!-- new purchase button -->
-        <!-- <button type="submit" class="btn btn-outline-dark btn-lg"> Purchase For $75 </button> -->
       </form>
     </div>
     <div class="col-md-6">
