@@ -27,7 +27,7 @@
 3. Run commands:
     - `` npm install `` Installs Node Packages including dependencies from package.json
     - ``` npm start ``` Starts server
-    - ``` npm test ``` Starts server using Nodemon
+    - ``` npm test ``` Starts server with Nodemon watching
 4. Server is listening on port: 5000
 5. Credit Card Number: ``4242 4242 4242 4242`` provided by stripe for testing purposes only.  THIS IS NOT A VALID CREDIT CARD
 
